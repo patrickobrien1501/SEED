@@ -17,12 +17,12 @@ data up to making sense out of sales data.
 
 ## Functionalities
 This interface between a design study software and applied data science can be established by connecting following dots:
-- Python flask backend
+- Python backend, deployment via flask, streamlit, dash or similar...
 - pyDOE2: an experimental design package for python that is designed to help scientists, engineers, statisticians, etc., to construct appropriate
 experimental designs
-- python LUX - an intelligent data visualization toolkit
-- Python statsmodels https://www.statsmodels.org/stable/index.html - Python module that provides classes and functions for the estimation of many
+- python LUX, plotly...  intelligent data visualization toolkits
+- Python statsmodels https://www.statsmodels.org/stable/index.html: Python module that provides classes and functions for the estimation of many
 different statistical models, as well as for conducting statistical tests, and statistical data exploration
-- Scipy - Python-based ecosystem of open-source software for mathematics, science, and engineering
-- Scikit Learn - Simple and efficient tools for predictive data analysis for regression, classification, clustering, dimensionality reduction and much
+- Scipy: Python-based ecosystem of open-source software for mathematics, science, and engineering
+- Scikit Learn: Simple and efficient tools for predictive data analysis for regression, classification, clustering, dimensionality reduction and much
 more
